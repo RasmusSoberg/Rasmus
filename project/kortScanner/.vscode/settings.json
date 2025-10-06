@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\rasmu\\ws\\IoT\\Rasmus\\Rasmus\\project\\kortScanner",
+            "binaryPath": "c:\\Users\\rasmu\\ws\\IoT\\Rasmus\\Rasmus\\project\\kortScanner\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
